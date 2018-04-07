@@ -114,6 +114,7 @@ h6 {
 .billboard.dark {
   background: url('../img/billboard.jpg') no-repeat;
   background-position-y: 45%;
+  background-position-x: 50%;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
